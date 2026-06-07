@@ -1,0 +1,6 @@
+{
+  "name": "37 Military Hospital HMS",
+  "description": "Hospital Management System with SATS Emergency Triage, Ward & Bed Allocation Matrix, Secure EHR, NHIS Billing Integration, and System Architecture Documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
